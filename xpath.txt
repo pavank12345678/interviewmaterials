@@ -1,0 +1,14 @@
+//span[@class='_36T8XR']/parent::*//input[@class='_2IX_2- VJZDxU']
+//div[@class='_37M3Pb']/div[4]
+//a[@class='_2I9KP_']/following-sibling::a
+//h1[contains(text(),'Mobile')]
+//h1[text()='Mobile Phones']
+//div[@class='_1Ijv5h']/parent::*/div/input
+//a[contains(text(),'Offer Zone')]/preceding::a[1]
+//Startwith  
+
+
+
+
+
+
